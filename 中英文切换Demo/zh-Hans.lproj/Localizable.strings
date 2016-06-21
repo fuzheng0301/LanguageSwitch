@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  中英文切换Demo
+
+  Created by fuzheng on 16/1/18.
+  Copyright © 2016年 fuzheng. All rights reserved.
+*/
+
+"ok" = "成功";
+
+"chinese" = "中文";
+
+"english" = "英文";
+
+"title" = "第二页";
+
+"click" = "点击";
